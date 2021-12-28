@@ -41,6 +41,8 @@
     "clientThemeVariant": "",
     "enableGradleEnterprise": false,
     "languages": ["en", "fr"],
-    "cypressCoverage": true
+    "cypressCoverage": true,
+    "entities": ["Region"],
+    "lastLiquibaseTimestamp": 1640680399000
   }
 }
